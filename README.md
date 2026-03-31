@@ -59,7 +59,7 @@ npm install
 npm run dev
 ```
 
-Then open: `http://localhost:5173`
+Then open: `http://localhost:5174`
 
 ## Notes
 - The backend uses SQLite by default (created in `backend/backend.db`).
